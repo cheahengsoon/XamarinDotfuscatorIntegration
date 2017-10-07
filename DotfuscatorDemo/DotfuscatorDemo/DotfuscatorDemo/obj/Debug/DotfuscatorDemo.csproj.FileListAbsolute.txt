@@ -1,0 +1,16 @@
+C:\Users\cheah\Documents\Visual Studio 2017\Projects\DotfuscatorDemo\DotfuscatorDemo\DotfuscatorDemo\bin\Debug\DotfuscatorDemo.dll
+C:\Users\cheah\Documents\Visual Studio 2017\Projects\DotfuscatorDemo\DotfuscatorDemo\DotfuscatorDemo\bin\Debug\DotfuscatorDemo.pdb
+C:\Users\cheah\Documents\Visual Studio 2017\Projects\DotfuscatorDemo\DotfuscatorDemo\DotfuscatorDemo\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\cheah\Documents\Visual Studio 2017\Projects\DotfuscatorDemo\DotfuscatorDemo\DotfuscatorDemo\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\cheah\Documents\Visual Studio 2017\Projects\DotfuscatorDemo\DotfuscatorDemo\DotfuscatorDemo\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\cheah\Documents\Visual Studio 2017\Projects\DotfuscatorDemo\DotfuscatorDemo\DotfuscatorDemo\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\cheah\Documents\Visual Studio 2017\Projects\DotfuscatorDemo\DotfuscatorDemo\DotfuscatorDemo\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\cheah\Documents\Visual Studio 2017\Projects\DotfuscatorDemo\DotfuscatorDemo\DotfuscatorDemo\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\cheah\Documents\Visual Studio 2017\Projects\DotfuscatorDemo\DotfuscatorDemo\DotfuscatorDemo\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\cheah\Documents\Visual Studio 2017\Projects\DotfuscatorDemo\DotfuscatorDemo\DotfuscatorDemo\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\cheah\Documents\Visual Studio 2017\Projects\DotfuscatorDemo\DotfuscatorDemo\DotfuscatorDemo\obj\Debug\DotfuscatorDemo.csprojResolveAssemblyReference.cache
+C:\Users\cheah\Documents\Visual Studio 2017\Projects\DotfuscatorDemo\DotfuscatorDemo\DotfuscatorDemo\obj\Debug\DotfuscatorDemo.csproj.CoreCompileInputs.cache
+C:\Users\cheah\Documents\Visual Studio 2017\Projects\DotfuscatorDemo\DotfuscatorDemo\DotfuscatorDemo\obj\Debug\DotfuscatorDemo.MainPage.xaml.g.cs
+C:\Users\cheah\Documents\Visual Studio 2017\Projects\DotfuscatorDemo\DotfuscatorDemo\DotfuscatorDemo\obj\Debug\DotfuscatorDemo.App.xaml.g.cs
+C:\Users\cheah\Documents\Visual Studio 2017\Projects\DotfuscatorDemo\DotfuscatorDemo\DotfuscatorDemo\obj\Debug\DotfuscatorDemo.dll
+C:\Users\cheah\Documents\Visual Studio 2017\Projects\DotfuscatorDemo\DotfuscatorDemo\DotfuscatorDemo\obj\Debug\DotfuscatorDemo.pdb

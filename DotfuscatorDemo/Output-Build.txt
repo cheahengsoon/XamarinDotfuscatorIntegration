@@ -1,0 +1,16 @@
+﻿Restoring NuGet packages...
+To prevent NuGet from restoring packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages during build.'
+1>------ Build started: Project: DotfuscatorDemo, Configuration: Debug Any CPU ------
+1>  DotfuscatorDemo -> C:\Users\cheah\Documents\Visual Studio 2017\Projects\DotfuscatorDemo\DotfuscatorDemo\DotfuscatorDemo\bin\Debug\DotfuscatorDemo.dll
+2>------ Build started: Project: DotfuscatorDemo.Android, Configuration: Debug Any CPU ------
+2>    Processing: obj\Debug\res\layout\tabbar.xml
+2>    Processing: obj\Debug\res\layout\toolbar.xml
+2>    Processing: obj\Debug\res\values\styles.xml
+2>  DotfuscatorDemo.Android -> C:\Users\cheah\Documents\Visual Studio 2017\Projects\DotfuscatorDemo\DotfuscatorDemo\DotfuscatorDemo.Android\bin\Debug\DotfuscatorDemo.Android.dll
+2>    Processing: obj\Debug\res\layout\tabbar.xml
+2>    Processing: obj\Debug\res\layout\toolbar.xml
+2>    Processing: obj\Debug\res\values\styles.xml
+2>    Processing: obj\Debug\res\layout\tabbar.xml
+2>    Processing: obj\Debug\res\layout\toolbar.xml
+2>    Processing: obj\Debug\res\values\styles.xml
+========== Build: 2 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
